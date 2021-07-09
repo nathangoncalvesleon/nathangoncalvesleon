@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nathangoncalvesleon
 - 👀 I’m interested in jobs
-- 🌱 I’m currently learning Nordic Mithologic
+- 🌱 I’m currently learning angula
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
