@@ -1,5 +1,5 @@
 <h1 align="center"> Hello! how are you?</h1>
-<h3 align="center">Sou Nathan, muito prazer! Sou estudante de Sistemas da informação e Desenvolvedor Front End</h3>
+<h3 align="center">Sou Nathan, muito prazer! Sou Desenvolvedor Front End</h3>
 <p>Estudante de Sistemas da informação.  
 Sou criador de conteúdo e apaixonado por tecnologia..
 Bom, se chegou até aqui, fique a vontade para ver meus projetos! Ficarei muito feliz se der um follow também hehe</p>
