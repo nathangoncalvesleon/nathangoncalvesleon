@@ -49,6 +49,7 @@
 <img src='https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white'>
 <img src='https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white'>
 <img src='https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white'>
+<img src='https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white'>
 
 
 </div>
