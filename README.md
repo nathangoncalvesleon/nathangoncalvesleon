@@ -1,6 +1,6 @@
 <h1 align="center">:rocket: Bem-vindo!:rocket:</h1>
-<h3 align="center">Sou Nathan, muito prazer! Sou um Engenheiro de Software Jr.</h3>
-<p>:boom: Graduando Sistemas da informação, com conclusão em 2023. </p>
+<h3 align="center">Sou Nathan, muito prazer! Sou um Engenheiro de Software.</h3>
+<p>:boom: Formado em Sistemas da informação. </p>
 <p>:boom: Sou um cara apaixonado por tecnologia, jogos, filmes e os animais</p>
 <p>:boom: Em meu dia a dia, meu hobby é ver alguma séries, ouvir músicas, ler, e jogar com amigos :video_game:	</p>
 
